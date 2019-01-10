@@ -1,2 +1,4 @@
-# abuse-detection
-Project on Automatic Abuse Detection
+# Abuse Detection on Social Networking Sites
+A Natural Language Processing Project on Abuse Detection
+
+#### Reddit Domestic Abuse Dataset: https://nicschrading.com/data/
